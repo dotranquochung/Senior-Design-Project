@@ -1,10 +1,17 @@
 # Senior-Design-Project
+Name: Hung Do
 
 Before running the file:
-- install python
+- install python 3.10
+Libraries needed to install: 
+Run in command prompt/ powershell: pip install [libraries] 
 - install opencv
+- install dlib
+- install face_recognition
+- install cmake
+- install speechrecognition
 
-Software tested: VS code
+Software tested: Visual Studio code
 
 Details about files:
 - live.py: using webcam for face detecting
@@ -18,3 +25,5 @@ Main file:
 - implementing: output real-time text when a person is speaking
 
 source of python code/library: opencv library
+
+(updating...)
